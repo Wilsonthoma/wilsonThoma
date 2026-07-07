@@ -105,4 +105,4 @@ A modern authentication system combining traditional and OAuth login for seamles
 
 ---
 
-### "Code with passion, secure with precision, and ship with confidence."  
+
